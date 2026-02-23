@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(148, 143, 143);
+}
+.h1-kontak {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
